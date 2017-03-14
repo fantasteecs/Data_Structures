@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1411576929 source:c:\users\eric chu\desktop\hw1\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	"PrimeChecker.h"
+
+1411576926 c:\users\eric chu\desktop\hw1\primechecker.h
+
+1412356804 source:c:\users\eric chu\desktop\hw1\primechecker.cpp
+	"PrimeChecker.h"
+	<math.h>
+
