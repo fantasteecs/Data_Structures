@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1419834943 source:c:\users\eric chu\desktop\test2\bankdatamanager.cpp
+	"bankdatamanager.h"
+
+1419834941 c:\users\eric chu\desktop\test2\bankdatamanager.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	"user.h"
+
+1419834933 c:\users\eric chu\desktop\test2\user.h
+
+1419834937 source:c:\users\eric chu\desktop\test2\main.cpp
+	<iomanip>
+	<ctime>
+	"bankdatamanager.h"
+	"user.h"
+

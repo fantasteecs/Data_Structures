@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1417682857 source:c:\users\eric chu\desktop\ds hw3\main.cpp
+	<iostream>
+	"fileHandler.h"
+	<ctime>
+
+1417687038 c:\users\eric chu\desktop\ds hw3\filehandler.h
+	<iostream>
+	<string.h>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+
+1417684886 source:c:\users\eric chu\desktop\ds hw3\filehandler.cpp
+	<sstream>
+	<string.h>
+	"fileHandler.h"
+
+1417787183 source:c:\users\eric chu\desktop\hw3\main.cpp
+	<iostream>
+	"fileHandler.h"
+	<ctime>
+
+1417787855 c:\users\eric chu\desktop\hw3\filehandler.h
+	<iostream>
+	<string.h>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+
+1417787406 source:c:\users\eric chu\desktop\hw3\filehandler.cpp
+	<sstream>
+	<string.h>
+	"fileHandler.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1414672085 source:c:\users\eric chu\desktop\hw2\irobot.cpp
+	<iostream>
+	"iRobot.h"
+	<queue>
+	<vector>
+	<cmath>
+
+1414667730 c:\users\eric chu\desktop\hw2\irobot.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<vector>
+	<stdlib.h>
+
+1414667235 source:c:\users\eric chu\desktop\hw2\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<vector>
+	<string.h>
+	"iRobot.h"
+

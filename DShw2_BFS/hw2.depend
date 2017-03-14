@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1414667228 source:c:\users\eric chu\desktop\hw2\irobot.cpp
+	<iostream>
+	"iRobot.h"
+	<queue>
+	<vector>
+	<cmath>
+
+1414667730 c:\users\eric chu\desktop\hw2\irobot.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<vector>
+	<stdlib.h>
+
+1414667235 source:c:\users\eric chu\desktop\hw2\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<vector>
+	<string.h>
+	"iRobot.h"
+
+1414668561 source:c:\users\eric chu\desktop\hw22\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<vector>
+	<string.h>
+	"iRobot.h"
+
+1414668617 c:\users\eric chu\desktop\hw22\irobot.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<vector>
+	<stdlib.h>
+
+1414668527 source:c:\users\eric chu\desktop\hw22\irobot.cpp
+	<iostream>
+	"iRobot.h"
+	<queue>
+	<vector>
+	<cmath>
+
+1414771239 source:c:\users\eric chu\desktop\dshw2\irobot.cpp
+	<iostream>
+	"iRobot.h"
+	<queue>
+	<vector>
+	<cmath>
+
+1414668617 c:\users\eric chu\desktop\dshw2\irobot.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<vector>
+	<stdlib.h>
+
+1414771272 source:c:\users\eric chu\desktop\dshw2\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<vector>
+	<string.h>
+	"iRobot.h"
+
+1414771239 source:c:\users\eric chu\desktop\交大電子\資料結構\dshw2\irobot.cpp
+	<iostream>
+	"iRobot.h"
+	<queue>
+	<vector>
+	<cmath>
+
+1414668617 c:\users\eric chu\desktop\交大電子\資料結構\dshw2\irobot.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<vector>
+	<stdlib.h>
+
+1414771272 source:c:\users\eric chu\desktop\交大電子\資料結構\dshw2\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<vector>
+	<string.h>
+	"iRobot.h"
+

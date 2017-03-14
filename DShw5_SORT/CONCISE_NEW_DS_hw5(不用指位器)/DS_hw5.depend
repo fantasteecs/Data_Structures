@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1420718744 source:c:\users\eric chu\desktop\ds_hw5\main.cpp
+	<iomanip>
+	<ctime>
+	"bankdatamanager.h"
+	"user.h"
+
+1420638166 c:\users\eric chu\desktop\ds_hw5\bankdatamanager.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	"user.h"
+
+1419834933 c:\users\eric chu\desktop\ds_hw5\user.h
+
+1420718654 source:c:\users\eric chu\desktop\ds_hw5\bankdatamanager.cpp
+	"bankdatamanager.h"
+
+1420718744 source:c:\users\eric chu\desktop\new_ds_hw5\main.cpp
+	<iomanip>
+	<ctime>
+	"bankdatamanager.h"
+	"user.h"
+
+1420638166 c:\users\eric chu\desktop\new_ds_hw5\bankdatamanager.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	"user.h"
+
+1419834933 c:\users\eric chu\desktop\new_ds_hw5\user.h
+
+1420720193 source:c:\users\eric chu\desktop\new_ds_hw5\bankdatamanager.cpp
+	"bankdatamanager.h"
+
+1420718744 source:c:\users\eric chu\desktop\concise_new_ds_hw5(不用指位器)\main.cpp
+	<iomanip>
+	<ctime>
+	"bankdatamanager.h"
+	"user.h"
+
+1420638166 c:\users\eric chu\desktop\concise_new_ds_hw5(不用指位器)\bankdatamanager.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	"user.h"
+
+1419834933 c:\users\eric chu\desktop\concise_new_ds_hw5(不用指位器)\user.h
+
+1420718744 source:c:\users\eric chu\desktop\交大電子\資料結構\dshw5\concise_new_ds_hw5(不用指位器)\main.cpp
+	<iomanip>
+	<ctime>
+	"bankdatamanager.h"
+	"user.h"
+
+1420638166 c:\users\eric chu\desktop\交大電子\資料結構\dshw5\concise_new_ds_hw5(不用指位器)\bankdatamanager.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	"user.h"
+
+1419834933 c:\users\eric chu\desktop\交大電子\資料結構\dshw5\concise_new_ds_hw5(不用指位器)\user.h
+

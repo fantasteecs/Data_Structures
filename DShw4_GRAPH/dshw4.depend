@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1419604811 source:c:\users\eric chu\desktop\dshw4\main.cpp
+	<iostream>
+	"cycleDetection.h"
+	<ctime>
+
+1419595626 c:\users\eric chu\desktop\dshw4\cycledetection.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+	<stdlib.h>
+	<map>
+	"vertex.h"
+
+1418189806 c:\users\eric chu\desktop\dshw4\vertex.h
+	<iostream>
+	<cstring>
+	<vector>
+	<stdlib.h>
+
+1419604798 source:c:\users\eric chu\desktop\dshw4\cycledetection.cpp
+	"cycleDetection.h"
+
+1419605608 source:c:\users\eric chu\desktop\交大電子\資料結構\dshw4_graph\cycledetection.cpp
+	"cycleDetection.h"
+
+1419595626 c:\users\eric chu\desktop\交大電子\資料結構\dshw4_graph\cycledetection.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+	<stdlib.h>
+	<map>
+	"vertex.h"
+
+1418189806 c:\users\eric chu\desktop\交大電子\資料結構\dshw4_graph\vertex.h
+	<iostream>
+	<cstring>
+	<vector>
+	<stdlib.h>
+
+1419604811 source:c:\users\eric chu\desktop\交大電子\資料結構\dshw4_graph\main.cpp
+	<iostream>
+	"cycleDetection.h"
+	<ctime>
+
